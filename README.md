@@ -14,7 +14,7 @@ Create some post-constructor unit tests
     - isNearlyFull() method returns false
 
 3.
-Create some post-action unit tests
+Create some post-action unit tests (each test starting with a newly constructed model):
 
     - test that after one delivery of 10, the delivery method returns false and the number of units is 10
     - test that after one delivery of 25, the delivery method returns false and number of units is still 0
