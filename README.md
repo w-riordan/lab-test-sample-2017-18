@@ -16,9 +16,9 @@ Create some post-constructor unit tests
 3.
 Create some post-action unit tests
 
-    - test that after 1 delivery of 10, the delivery method returns false and the number of units is 10
-    - test that after 1 deliveries of 25, the delivery method returns false and number of units is still 0
-    - test that after 4 deliveries of 20, the isNearlyFull() method returns true and number of units is 80
+    - test that after **one** delivery of 10, the delivery method returns false and the number of units is 10
+    - test that after **one** delivery of 25, the delivery method returns false and number of units is still 0
+    - test that after **four** deliveries of 20, the isNearlyFull() method returns true and number of units is 80
 
 4.
 You have been given a Scene in the Unity project
