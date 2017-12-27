@@ -33,6 +33,6 @@ You have been given a Scene in the Unity project
 
     BUT - you must NOT make any changes to the provided Model class ....
 
-4.
+5.
 commit your changes to your repo
 and make a pull request to my original repo
